@@ -5,196 +5,224 @@
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject two"
+      "subtype": "subject two",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-warning"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject two"
+      "subtype": "subject two",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject four"
+      "subtype": "subject four",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Chocolate",
       "Location": "VA",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-warning"
     },
     {
       "Flavor": "Strawberry",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-warning"
     },
     {
       "Flavor": "Butter Pecan",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject two"
+      "subtype": "subject two",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Blueberry",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Orange",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject four"
+      "subtype": "subject four",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject four"
+      "subtype": "subject four",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Orange",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject two"
+      "subtype": "subject two",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject four"
+      "subtype": "subject four",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject five"
+      "subtype": "subject five",
+      "listStatus": "list-group-item-danger"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject three"
+      "subtype": "subject three",
+      "listStatus": "list-group-item-warning"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject four"
+      "subtype": "subject four",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject five"
+      "subtype": "subject five",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject five"
+      "subtype": "subject five",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Apple",
       "Location": "VA",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-success"
     },
     {
       "Flavor": "Blueberry",
       "Location": "DC",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject five"
+      "subtype": "subject five",
+      "listStatus": "list-group-item-info"
     },
     {
       "Flavor": "Vanila",
       "Location": "MD",
       "Date": "3/5/18",
       "Status": "Pending",
-      "subtype": "subject One"
+      "subtype": "subject One",
+      "listStatus": "list-group-item-danger"
     }
   ]
 }
