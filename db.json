@@ -1,5 +1,4 @@
-{
-  "Announcement": [
+  [
     {
       "Title": "Vanila",
       "Detail": "this is a test announcement. Lorem Ipmusum",
@@ -225,4 +224,3 @@
       "inset":true
     }
   ]
-}
