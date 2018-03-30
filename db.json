@@ -152,47 +152,5 @@
       "link": "https://vuetifyjs.com/en/components/subheaders",
       "divider": true,
       "inset":true
-    },
-    {
-      "Title": "Vanila",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders",
-      "divider": true,
-      "inset":true
-    },
-    {
-      "Title": "Vanila",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders",
-      "divider": true,
-      "inset":true
-    },
-    {
-      "Title": "Vanila",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders",
-      "divider": true,
-      "inset":true
-    },
-    {
-      "Title": "Apple",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders",
-      "divider": true,
-      "inset":true
-    },
-    {
-      "Title": "Blueberry",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders ",
-      "divider": true,
-      "inset":true
-    },
-    {
-      "Title": "Vanila",
-      "Detail": "this is a test announcement. Lorem Ipmusum",
-      "link": "https://vuetifyjs.com/en/components/subheaders",
-      "divider": true,
-      "inset":true
     }
   ]
