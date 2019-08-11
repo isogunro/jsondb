@@ -1,7 +1,7 @@
 # jsondb
 
 ## JSON Files in directory
-announcement
-chartdata
-db
+announcement.json
+chartdata.json
+db.json
 
