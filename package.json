@@ -1,0 +1,22 @@
+{
+  "name": "jsondb",
+  "version": "1.0.0",
+  "description": "Fake Json Data",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isogunro/jsondb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isogunro/jsondb/issues"
+  },
+  "homepage": "https://github.com/isogunro/jsondb#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
