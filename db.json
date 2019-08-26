@@ -182,5 +182,106 @@
             "funded": "Yes",
             "Recruit": "Recruiting"
         }
+    ],
+    "chartData": [
+        {
+            "date": "4/4/2019",
+            "totalCount": 381,
+            "ExpectedFund": 191,
+            "Funded": 290,
+            "Billing": 125,
+            "crossOver": 241,
+            "AcceptedTotal": 515
+        },
+        {
+            "date": "4/11/2019",
+            "totalCount": 233,
+            "ExpectedFund": 12,
+            "Funded": 220,
+            "Billing": 125,
+            "crossOver": 211,
+            "AcceptedTotal": 315
+        },
+        {
+            "date": "4/18/2019",
+            "totalCount": 542,
+            "ExpectedFund": 34,
+            "Funded": 240,
+            "Billing": 125,
+            "crossOver": 125,
+            "AcceptedTotal": 415
+        },
+        {
+            "date": "4/25/2019",
+            "totalCount": 154,
+            "ExpectedFund": 49,
+            "Funded": 210,
+            "Billing": 243,
+            "crossOver": 35,
+            "AcceptedTotal": 115
+        },
+        {
+            "date": "5/2/2019",
+            "totalCount": 300,
+            "ExpectedFund": 55,
+            "Funded": 200,
+            "Billing": 125,
+            "crossOver": 145,
+            "AcceptedTotal": 105
+        },
+        {
+            "date": "5/9/2019",
+            "totalCount": 231,
+            "ExpectedFund": 55,
+            "Funded": 250,
+            "Billing": 125,
+            "crossOver": 355,
+            "AcceptedTotal": 215
+        },
+        {
+            "date": "5/16/2019",
+            "totalCount": 331,
+            "ExpectedFund": 77,
+            "Funded": 270,
+            "Billing": 312,
+            "crossOver": 15,
+            "AcceptedTotal": 615
+        },
+        {
+            "date": "5/23/2019",
+            "totalCount": 498,
+            "ExpectedFund": 232,
+            "Funded": 270,
+            "Billing": 312,
+            "crossOver": 15,
+            "AcceptedTotal": 615
+        },
+        {
+            "date": "5/30/2019",
+            "totalCount": 102,
+            "ExpectedFund": 33,
+            "Funded": 150,
+            "Billing": 25,
+            "crossOver": 155,
+            "AcceptedTotal": 315
+        },
+        {
+            "date": "6/6/2019",
+            "totalCount": 293,
+            "ExpectedFund": 235,
+            "Funded": 170,
+            "Billing": 112,
+            "crossOver": 125,
+            "AcceptedTotal": 315
+        },
+        {
+            "date": "6/13/2019",
+            "totalCount": 198,
+            "ExpectedFund": 432,
+            "Funded": 470,
+            "Billing": 112,
+            "crossOver": 315,
+            "AcceptedTotal": 215
+        }
     ]
 }
