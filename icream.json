@@ -1,0 +1,24 @@
+{
+    "Ice Cream": [
+        {
+            "Flavor": "Chocolate",
+            "Vote": "107"
+        },
+        {
+            "Flavor": "Vanilla",
+            "Vote": "87"
+        },
+        {
+            "Flavor": "Strawberry",
+            "Vote": "98"
+        },
+        {
+            "Flavor": "Cookies & Cream",
+            "Vote": "257"
+        },
+        {
+            "Flavor": "Peach",
+            "Vote": "105"
+        }
+    ]
+}
