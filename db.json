@@ -1,66 +1,6 @@
 {
     "Programs": [
         {
-            "id": 1,
-            "program": "ATR",
-            "company": "APPLE",
-            "funding": "Expected",
-            "funded": "Yes",
-            "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z",
-            "dropDown": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        {
-            "id": 2,
-            "program": "STR",
-            "company": "IBM",
-            "funding": "Expected",
-            "funded": "Yes",
-            "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z",
-            "dropDown": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        {
-            "id": 3,
-            "program": "ATR",
-            "company": "GOOGLE",
-            "funding": "Yes",
-            "funded": "Yes",
-            "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z",
-            "dropDown": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        {
-            "id": 4,
-            "program": "STR",
-            "company": "IBM",
-            "funding": "Expected",
-            "funded": "Yes",
-            "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z",
-            "dropDown": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        {
             "id": 5,
             "program": "ATR",
             "company": "APPLE",
@@ -472,24 +412,6 @@
             "Billing": 25,
             "crossOver": 155,
             "AcceptedTotal": 315
-        },
-        {
-            "date": "6/6/2019",
-            "totalCount": 293,
-            "ExpectedFund": 235,
-            "Funded": 170,
-            "Billing": 112,
-            "crossOver": 125,
-            "AcceptedTotal": 315
-        },
-        {
-            "date": "6/13/2019",
-            "totalCount": 198,
-            "ExpectedFund": 432,
-            "Funded": 470,
-            "Billing": 112,
-            "crossOver": 315,
-            "AcceptedTotal": 215
         }
     ],
     "IceCream": [
