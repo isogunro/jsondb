@@ -7,7 +7,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 2,
@@ -16,7 +22,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 3,
@@ -25,7 +37,13 @@
             "funding": "Yes",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 4,
@@ -34,7 +52,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 5,
@@ -43,7 +67,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 6,
@@ -52,7 +82,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 7,
@@ -61,7 +97,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 8,
@@ -70,7 +112,13 @@
             "funding": "Yes",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 9,
@@ -79,7 +127,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 10,
@@ -88,7 +142,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 11,
@@ -97,7 +157,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 12,
@@ -106,7 +172,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 13,
@@ -115,7 +187,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 14,
@@ -124,7 +202,13 @@
             "funding": "NO",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 15,
@@ -133,7 +217,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 16,
@@ -142,7 +232,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 17,
@@ -151,7 +247,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 18,
@@ -160,7 +262,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 19,
@@ -169,7 +277,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 20,
@@ -178,7 +292,13 @@
             "funding": "Yes",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 21,
@@ -187,7 +307,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 22,
@@ -196,7 +322,13 @@
             "funding": "Yes",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 23,
@@ -205,7 +337,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 24,
@@ -214,7 +352,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 25,
@@ -223,7 +367,13 @@
             "funding": "NO",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         },
         {
             "id": 25,
@@ -232,7 +382,13 @@
             "funding": "Expected",
             "funded": "Yes",
             "Recruit": "Recruiting",
-            "Date": "2019-10-10T07:00:00Z"
+            "Date": "2019-10-10T07:00:00Z",
+            "dropDown": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
         }
     ],
     "chartData": [
