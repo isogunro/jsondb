@@ -288,8 +288,8 @@
     ],
     "UserProfile": [
         {
-            "First Name": "John",
-            "Last Name": "Doe",
+            "FirstName": "John",
+            "LastName": "Doe",
             "Phone": "123-456-7890",
             "Department": "HR",
             "Office": "0000A"
