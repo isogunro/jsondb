@@ -292,7 +292,9 @@
             "LastName": "Doe",
             "Phone": "123-456-7890",
             "Department": "HR",
-            "Office": "0000A"
+            "Office": "0000A",
+            "email": "jdoe@abc.com",
+            "country": "USA"
         }
     ]
 }
