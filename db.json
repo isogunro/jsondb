@@ -285,5 +285,14 @@
             "Flavor": "Peach",
             "Vote": "105"
         }
+    ],
+    "UserProfile": [
+        {
+            "First Name": "John",
+            "Last Name": "Doe",
+            "Phone": "123-456-7890",
+            "Department": "HR",
+            "Office": "0000A"
+        }
     ]
 }
